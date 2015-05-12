@@ -52,7 +52,7 @@ Members of the organization can participate in the proposal adoption process, ho
 
 ##Meeting Times & Format
 
-##Proposal Adoption Meetings
+**Proposal Adoption Meetings:**
 
 * Meet to address tensions and frustrations through the proposal adoption process on Fridays 2pm - 3pm.
 
