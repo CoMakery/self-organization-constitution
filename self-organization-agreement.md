@@ -18,16 +18,16 @@ A facilitator facilitates the process if it is an in person meeting.
 
 **This is the proposal adoption process:**
 
-The person experiencing the need for change makes their proposal to the group of affected people. They explain the tension or frustration that they are personally feeling and what the proposal is.
-
+1. The person experiencing the need for change makes their proposal to the group of affected people. They explain the tension or frustration that they are personally feeling and what the proposal is.
 1. Any group member can ask clarifying questions.
-2. Each group member is given space to give their reaction to the proposal.
-3. Each group member can then respond with “objection” or “no objection”. 
+1. Each group member is given space to give their reaction to the proposal.
+1. Each group member can then respond with “objection” or “no objection”. 
+
     1. Objections are tested by the facilitator for validity. Objections are valid only if they are based on evidence that the adoption of the proposal would cause significant harm. 
     2. Valid objections are resolved between the proposer and the objector. The proposer chooses how to amend their proposal based on suggestions. 
-4. Modified proposals are then re-presented to the group for objections.
-5. If there are no valid objections, then the proposal is adopted
-6. The adopted proposal and the specific need for change are then recorded.
+1. Modified proposals are then re-presented to the group for objections.
+1. If there are no valid objections, then the proposal is adopted
+1. The adopted proposal and the specific need for change are then recorded.
 
 Proposals that are adopted can be modified through the proposal adoption process.
 
