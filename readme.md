@@ -1,8 +1,8 @@
 #README
 
-The agreement document is [here](self-organization-agreement.md)
+The self-organization agreement document is [here](self-organization-agreement.md)
 
-**Note:** This particular agreement is new and being vetted by pioneering organizations. Your feedback as a pioneer is very welcome.
+**Note:** This version of the agreement is new and being vetted by pioneering organizations. Your feedback as a pioneer, practitioner, or engaged observer is very welcome.
 
 #Preamble
 
