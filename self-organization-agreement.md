@@ -14,7 +14,9 @@ You are free to take any action that fulfills the purpose of the organization an
 
 If you personally experience a frustration or tension you can make a proposal that addresses your problem. The proposal can be to affect a role, rule, action, purchase, purpose, strategy, or change to this agreement. You can make your proposal electronically or at a meeting. The proposal must be proposed to the group affected by the proposal.
 
-A facilitator facilitates the process if it is an in person meeting. This is the proposal adoption process:
+A facilitator facilitates the process if it is an in person meeting. 
+
+**This is the proposal adoption process:**
 
 The person experiencing the need for change makes their proposal to the group of affected people. They explain the tension or frustration that they are personally feeling and what the proposal is.
 
