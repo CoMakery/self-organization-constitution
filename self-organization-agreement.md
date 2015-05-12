@@ -2,9 +2,9 @@
 
 ##Principles
 
-* Distribute Authority - Members are free to take actions that further the organization's purpose by default.
-* Evolve - Define organizational rules and roles iteratively based on the challenges that members experience. Make progress even over perfection.
-* Evidence - Base decisions and actions on evidence. 
+* **Distribute Authority** - Members are free to take actions that further the organization's purpose by default.
+* **Evolve** - Define organizational rules and roles iteratively based on the challenges that members experience. Make progress even over perfection.
+* **Evidence** - Base decisions and actions on evidence. 
 
 ##Freedom To Self-Organize
 
