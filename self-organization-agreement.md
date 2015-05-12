@@ -22,7 +22,6 @@ A facilitator facilitates the process if it is an in person meeting.
 1. Any group member can ask clarifying questions.
 1. Each group member is given space to give their reaction to the proposal.
 1. Each group member can then respond with “objection” or “no objection”. 
-
     1. Objections are tested by the facilitator for validity. Objections are valid only if they are based on evidence that the adoption of the proposal would cause significant harm. 
     2. Valid objections are resolved between the proposer and the objector. The proposer chooses how to amend their proposal based on suggestions. 
 1. Modified proposals are then re-presented to the group for objections.
