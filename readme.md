@@ -1,3 +1,7 @@
+#README
+
+The agreement document is [here](self-organization-agreement.md)
+
 **Note:** This particular agreement is new and being vetted by pioneering organizations. Your feedback as a pioneer is very welcome.
 
 #Preamble
@@ -11,6 +15,13 @@ Your group of 2-20 people needs a clear way to fulfill its purpose, make decisio
 * In order to build capacity rapidly with changing team members your agreement must also be simple.
 
 If this is what you are looking for, this agreement is for you.
+
+
+##Principles
+
+* **Distribute Authority** - Members are free to take actions that further the organization's purpose by default.
+* **Evolve** - Define organizational rules and roles iteratively based on the challenges that members experience. Make progress even over perfection.
+* **Evidence** - Base decisions and actions on evidence. 
 
 ###How do you adopt this agreement?
 
