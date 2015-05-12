@@ -14,7 +14,7 @@ Your group of 2-20 people needs a clear way to fulfill its purpose, make decisio
 * To learn from other groups you need to be able to share innovations freely. 
 * In order to build capacity rapidly with changing team members your agreement must also be simple.
 
-If this is what you are looking for, this agreement is for you.
+If this is what you are looking for, [this agreement](self-organization-agreement.md) is for you.
 
 
 ##Principles
