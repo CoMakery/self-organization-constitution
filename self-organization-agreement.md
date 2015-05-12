@@ -1,11 +1,5 @@
 #Self-Organization Agreement
 
-##Principles
-
-* **Distribute Authority** - Members are free to take actions that further the organization's purpose by default.
-* **Evolve** - Define organizational rules and roles iteratively based on the challenges that members experience. Make progress even over perfection.
-* **Evidence** - Base decisions and actions on evidence. 
-
 ##Freedom To Self-Organize
 
 You are free to take any action that fulfills the purpose of the organization and the roles that you hold. In doing so, you must not break any explicitly defined rule and you must uphold the values of the organization. 
