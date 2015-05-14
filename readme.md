@@ -27,11 +27,13 @@ If this is what you are looking for, [this agreement](self-organization-agreemen
 3. Have those with sufficient authority ratify the agreement for self-organization.
 4. Have regular meetings to make proposals. Document the proposals in the adopted proposal section below.
 
-####Why are there no circles or groups defined in the agreement?
+###Why are there no circles or groups defined in the agreement?
 
 The focus of this agreement is for small groups of 2-20. There are several design patterns for scaling. Rather than biasing in one direction or another at the outset, the agreement gives space for the organization to evolve.
 
 Two potential scaling patterns are: nested holonic circle structures as employed by Sociocracy & Holacracy; and networked structures such as Morning Star's [Colleague Letter of Understanding (CLOU)](http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments).
+
+If you would like to contribute scaling "proposal pattern", your contributions would be welcome. For example you could contribute a sociocracy style double linked circle "proposal pattern".
 
 ###Legal
 
