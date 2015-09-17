@@ -1,85 +1,52 @@
-#Self-Organization Agreement
+#Constitution
 
-##Freedom To Self-Organize
+##Freedom To Fulfill The Purpose
 
-You are free to take any action that fulfills the purpose of the organization and the roles that you hold. In doing so, you must not break any explicitly defined rule and you must uphold the values of the organization. 
+You are free to take any action that fulfills the [purpose](purpose.md) of the organization and the roles that you hold - as long as you do not break a [Rule](rules.md); and you seek to uphold the [values](values.md) and principles of the constitution.
 
-##Proposal Adoption Process
+##Proposal Process
 
-If you personally experience a frustration or tension you can make a proposal that addresses your problem. The proposal can be to affect a role, rule, action, purchase, purpose, strategy, or change to this agreement. You can make your proposal electronically or at a meeting. The proposal must be proposed to the group affected by the proposal.
+If you are experiencing a tension or problem with the constitution you can propose an amendment. You can make your proposal in a github pull request or at a meeting. The proposal must be proposed to the people affected by the proposal and they must have the opportunity to object.
 
-A facilitator facilitates the process if it is an in person meeting. 
 
-**This is the proposal adoption process:**
+**This is the proposal adoption process for meetings:**
 
-1. The person experiencing the need for change makes their proposal to the group of affected people. They explain the tension or frustration that they are personally feeling and what the proposal is.
-1. Any group member can ask clarifying questions.
-1. Each group member is given space to give their reaction to the proposal.
-1. Each group member can then respond with “objection” or “no objection”. 
-    1. Objections are tested by the facilitator for validity. Objections are valid only if they are based on evidence that the adoption of the proposal would cause significant harm. 
-    2. Valid objections are resolved between the proposer and the objector. The proposer chooses how to amend their proposal based on suggestions. 
-1. Modified proposals are then re-presented to the group for objections.
-1. If there are no valid objections, then the proposal is adopted
-1. The adopted proposal and the specific need for change are then recorded.
+0. A [Facilitator](https://github.com/citizencode/citizen-code-constitution/blob/master/roles.md#facilitator) facilitates the process if it is an in person meeting. If no Facilitators are present, someone else can step up to facilitate but that person should not merge pull requests at the end.
+1. For each un-merged proposal pull request, the facilitator takes these steps:
+  1. The person experiencing the need for change (the author of the pull request) reads their proposal to the group of affected people. They explain why the change is needed and what the proposal is, and why it is un-merged.
+  2. The facilitator asks if anyone has clarifying questions and lets people ask their questions and get answers.
+  3. The facilitator asks each group member for a reaction. A simple "no reaction" or a thumbs up is perfectly acceptable and speeds the process up.
+  4. The facilitator asks each group member whether they object or not. The group member responds with “objection” or “no objection”. Only objections that are based on the belief that the proposal would cause significant harm are valid. Valid objections are resolved between the proposer and the objector. The proposer chooses how to amend their proposal based on suggestions. Modified proposals are then re-presented to the group for objections.
+  5. If there are no valid objections then the proposal is adopted.
+  6. The Facilitator merges the pull request.
 
-Proposals that are adopted can be modified through the proposal adoption process.
+**This is the proposal process for github pull requests:**
+
+1. The proposer creates a new github pull request for the proposal.
+2. The tension that is to be addressed by the proposal is a) included in the commit message for Roles or b) as part of the description of a Rule.
+3. The change is announced to all Members on the slack #governance channel.
+4. Members can respond with clarifications, reactions, and blocking objections. Any Member can abstain from participating.
+5. Valid objections must include a reason that the proposal is believed to be harmful and not safe enough to try; it must also include either 1) a thumbs down emoji 2) the words "objection" or 3) a "-1".
+6. Any facilitator can decree that the proposal is adopted if there is evidence that the final proposal has been seen by those who are significantly affected and there are no valid objections to the final version of the proposal for two days.
+7. Anyone can request that the pull request be discussed in-person in the next governance meeting.
+8. The proposer or facilitator can require that the pull request be discussed in-person in the next governance meeting.
+
+Proposals that are adopted can be further modified through the proposal adoption process.
 
 ##Rules
 
-Rules govern the resources of the organization. They are decided through the proposal process.
+[Rules](rules.md) govern the resources of the organization. They are decided through the proposal process.
 
 ##Roles
 
-Roles and their accountabilities are defined through proposals. Roles are defined separately from people. 
+[Roles](roles.md) and their accountabilities are defined through proposals. Roles are defined separately from people.
 
 People are assigned to roles by a person with a “role assigner” role. A person can be assigned to multiple roles. A person can resign from roles they do not wish to hold. People are only accountable for roles they hold.
 
+##Processes
+
+[Processes](processes.md) include roles, their interactions and decisions in achieving an outcome.
+
 ##Members
 
-Members of the organization can participate in the proposal adoption process, hold a role, or employ the organization's resources; non-members cannot. Membership can be granted or revoked by a person who holds the “Role Assigner” role.
-
-#Adopted Proposals
-
-##Purpose 
-
-##Values
-
-##Meeting Times & Format
-
-**Proposal Adoption Meetings:**
-
-* Meet to address tensions and frustrations through the proposal adoption process on Fridays 2pm - 3pm.
-
-##Rules
-
-Members can only expense up to $250 per month without advance permission from the treasurer role.
-
-##Roles
-
-###Role Assigner
-
-Held by:
-Accountabilities:
-
-* Assigns people to roles
-* Removes people from roles
-* Invites members to the organization
-* Revokes membership
-
-###Facilitator
-
-Held by:
-
-Accountabilities:
-
-* Facilitates proposal adoption meetings
-
-###Treasurer
-
-Held by:
-
-Accountabilities:
-
-* Approves purchases or commitments exceeding $250 per month
-
-##Decisions
+Members of the organization can participate in the proposal adoption process, hold a role, or employ the organization's resources; non-members cannot. Membership can be granted or revoked by a person who holds the “Role Assigner” [role](roles.md).
