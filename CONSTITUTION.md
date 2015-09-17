@@ -11,7 +11,7 @@ If you are experiencing a tension or problem with the constitution you can propo
 
 **This is the proposal adoption process for meetings:**
 
-0. A [Facilitator](https://github.com/citizencode/citizen-code-constitution/blob/master/roles.md#facilitator) facilitates the process if it is an in person meeting. If no Facilitators are present, someone else can step up to facilitate but that person should not merge pull requests at the end.
+0. A [Facilitator](roles.md#facilitator) facilitates the process if it is an in person meeting. If no Facilitators are present, someone else can step up to facilitate but that person should not merge pull requests at the end.
 1. For each un-merged proposal pull request, the facilitator takes these steps:
   1. The person experiencing the need for change (the author of the pull request) reads their proposal to the group of affected people. They explain why the change is needed and what the proposal is, and why it is un-merged.
   2. The facilitator asks if anyone has clarifying questions and lets people ask their questions and get answers.
