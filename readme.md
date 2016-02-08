@@ -58,7 +58,7 @@ We were greatly inspired by Holacracy, Sociocracy, Morning Star self-management,
 ####Contributors:
 
 * David Hodgson
-* Michael Auraz
+* Mike Arauz
 
 ####Sponsors:
 
