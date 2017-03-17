@@ -1,10 +1,10 @@
-#Constitution
+# Constitution
 
-##Freedom To Fulfill The Purpose
+## Freedom To Fulfill The Purpose
 
 You are free to take any action that fulfills the [purpose](purpose.md) of the organization and the roles that you hold - as long as you do not break a [Rule](rules.md); and you seek to uphold the [values](values.md) and principles of the constitution.
 
-##Proposal Process
+## Proposal Process
 
 If you are experiencing a tension or problem with the constitution you can propose an amendment. You can make your proposal in a github pull request or at a meeting. The proposal must be proposed to the people affected by the proposal and they must have the opportunity to object.
 
@@ -33,20 +33,20 @@ If you are experiencing a tension or problem with the constitution you can propo
 
 Proposals that are adopted can be further modified through the proposal adoption process.
 
-##Rules
+## Rules
 
 [Rules](rules.md) govern the resources of the organization. They are decided through the proposal process.
 
-##Roles
+## Roles
 
 [Roles](roles.md) and their accountabilities are defined through proposals. Roles are defined separately from people.
 
 People are assigned to roles by a person with a “role assigner” role. A person can be assigned to multiple roles. A person can resign from roles they do not wish to hold. People are only accountable for roles they hold.
 
-##Processes
+## Processes
 
 [Processes](processes.md) include roles, their interactions and decisions in achieving an outcome.
 
-##Members
+## Members
 
 Members of the organization can participate in the proposal adoption process, hold a role, or employ the organization's resources; non-members cannot. Membership can be granted or revoked by a person who holds the “Role Assigner” [role](roles.md).
