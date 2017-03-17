@@ -1,6 +1,6 @@
-##Roles
+## Roles
 
-###Role Assigner
+### Role Assigner
 
 Held by:
 Accountabilities:
@@ -10,7 +10,7 @@ Accountabilities:
 * Invites members to the organization
 * Revokes membership
 
-###Facilitator
+### Facilitator
 
 Held by:
 
@@ -18,7 +18,7 @@ Accountabilities:
 
 * Facilitating proposal adoption meetings
 
-###Treasurer
+### Treasurer
 
 Held by:
 
