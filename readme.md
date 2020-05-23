@@ -1,6 +1,8 @@
 # README
 
-The primary self-organization constitution document is [here](CONSTITUTION.md).
+The primary [self-organization constitution document is here](CONSTITUTION.md).
+
+Check out the [Citizen Code Example Constitution](citizen-code-constitution-example/README.md) to get an idea of what this can evolve into over the course of a 2 years.
 
 **Note:** This version of the constitution is new and being vetted by pioneering organizations. Your feedback as a pioneer, practitioner, or engaged observer is very welcome.
 
@@ -54,6 +56,7 @@ We were greatly inspired by Holacracy, Sociocracy, Morning Star self-management,
 
 * Noah Thorp
 * Alexis Gonzales-Black
+* The team at Citizen Code
 
 #### Contributors:
 
@@ -62,4 +65,5 @@ We were greatly inspired by Holacracy, Sociocracy, Morning Star self-management,
 
 #### Sponsors:
 
-* Citizen Code
+* Citizen Code (Retired)
+* [CoMakery](https://www.comakery.com)
